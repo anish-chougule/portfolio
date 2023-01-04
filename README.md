@@ -26,6 +26,15 @@ Academic and Professional Portfolio
 - Calculating Accuracy of predictions
 - Predicting future trend using today's stock data
 
+# Optimization of Real-time 3D Object Detection Inference in Point Clouds (Undergraduate Research)
+
+<p float="left">
+  <img src="https://github.com/anish-chougule/portfolio/blob/main/Undergraduate%20Research/Actual.jpg" width="500" height="200" />
+  <img src="https://github.com/anish-chougule/portfolio/blob/main/Undergraduate%20Research/Modified.jpg" width="500" height="200" />
+</p>
+
+##
+
 Anish Chougule  
 Bachelors in Computer Science  
 Youngstown State University ('23 Expected Grad)  
