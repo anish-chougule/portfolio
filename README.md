@@ -3,7 +3,7 @@ Academic and Professional Portfolio
 
 # Predicting Stock Trend using Machine Learning (XGBoost)
 
-
+![Prediction Sample Image](https://github.com/anish-chougule/portfolio/blob/main/stock_trend_prediction.png)
 
 ## Libraries Used
 
