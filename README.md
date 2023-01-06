@@ -5,6 +5,8 @@ Academic and Professional Portfolio
 
 ![Prediction Sample Image](https://github.com/anish-chougule/portfolio/blob/main/Stock%20Trend%20Predictor/stock_trend_prediction.png)
 
+A simple program that learns stock trend movement through technical indicators like Relative Strength Index, Moving Averages and their differentials and predict trends on unseen data.
+
 ## Libraries Used
 
 - Python Standard Library
